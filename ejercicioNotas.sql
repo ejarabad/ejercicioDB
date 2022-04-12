@@ -1,6 +1,3 @@
-# ejercicioDB
-
-El Script que realice para el ejercicio fue este:
 create database notas;
 
 CREATE TABLE IF NOT EXISTS notas.usuarios (
@@ -105,5 +102,3 @@ INSERT INTO notas.usuarios(nombre, email) VALUES (
 ('Gabriela', 'gabriela@prueba.com');
 
 select * from usuarios;
-
-Espeficicamos en varios campos los tipos de datos que necesitamos.
